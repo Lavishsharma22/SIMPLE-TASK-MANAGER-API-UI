@@ -48,9 +48,3 @@ A full-stack Task Manager application that allows users to create, update, delet
 
 ---
 
-## 📦 Setup Instructions
-
-1. Clone the repository:
-```bash
-git clone <your-repo-link>
-cd backend
